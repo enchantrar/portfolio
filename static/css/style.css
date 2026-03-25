@@ -88,7 +88,7 @@ body {
     min-height: 88vh;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    align-items: center;
+    align-items: start;
     gap: 3rem;
     padding: 5rem 3rem;
     overflow: hidden;
